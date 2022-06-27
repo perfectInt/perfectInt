@@ -6,7 +6,7 @@
 <h3>:man_technologist: About Me :</h3>
 <h4>I am a Java backend developer from Russian Federation</h4> -->
 ### 👨‍💻 About me:
-#### I am a backend developer from Russian Federation
+#### I am a Java backend developer from Russian Federation
 - 🎓 I’m obtaining a bachelor's degree in CS at <a href = "https://nnov.hse.ru/en/ba/se/">HSE University</a>
 - 🎤 I speak 🇷🇺 russian and 🇬🇧 english
 - 🤖 Engaged in Java development for 2 years
