@@ -33,3 +33,11 @@
 ![bash](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
 ![docker](https://user-images.githubusercontent.com/42664735/176217964-13ece97b-4c51-4202-b70d-927d7b75d293.png)
 ![debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white)
+
+# 📈My GitHub stats!
+
+![perfectInt's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfectInt&theme=transparent)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perfectInt&theme=transparent)
+
+![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Bye](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
