@@ -39,5 +39,5 @@
 ![perfectInt's GitHub stats](https://github-readme-stats.vercel.app/api?username=perfectInt&theme=transparent)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=perfectInt&theme=transparent)
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/perfectInt/perfectInt/blob/output/github-contribution-grid-snake.svg)
 ![Bye](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer)
