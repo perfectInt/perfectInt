@@ -9,7 +9,7 @@
 #### I am a Java/Python developer from Russia
 - 🎓 I’m obtaining a bachelor's degree in CS at <a href = "https://nnov.hse.ru/en/ba/se/">HSE University</a>
 - 🎤 I speak 🇷🇺 russian and 🇬🇧 english
-- ✔️ Check my CV in the <a href="#">link</a>
+- ✔️ Check my CV in the <a href="https://docs.google.com/document/d/1fpfWUhN-3At3wGmgyFrB8kPOxlcQv_pK_vGw8wSeJtc/edit">link</a>
 ### 🧰 My main buzzwords
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
