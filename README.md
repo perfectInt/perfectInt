@@ -6,7 +6,7 @@
 <h3>:man_technologist: About Me :</h3>
 <h4>I am a java developer from Russia</h4> -->
 ### 👨‍💻 About me:
-#### I am a Java/Kotlin developer from Russia
+#### I am a Java developer from Russia
 - 🎓 I’m obtaining a bachelor's degree in CS at <a href = "https://nnov.hse.ru/en/ba/se/">HSE University</a>
 - 🎤 I speak 🇷🇺 russian and 🇬🇧 english
 - ✔️ Check my CV in the <a href="https://docs.google.com/document/d/1fpfWUhN-3At3wGmgyFrB8kPOxlcQv_pK_vGw8wSeJtc/edit">link</a>
